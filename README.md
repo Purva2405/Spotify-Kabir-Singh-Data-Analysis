@@ -14,23 +14,23 @@ It highlights patterns in track durations, album popularity, year-wise release t
 
 ## **Key Insights**
 
-### ✔ Top Spotify Playlists
+### ➜ Top Spotify Playlists
 
 Shows the two playlists containing the highest count of *Kabir Singh* tracks.
 
-### ✔ Popular Albums
+### ➜ Popular Albums
 
 Comparison of the most accessed albums, including the original soundtrack and variations.
 
-### ✔ Track Duration Distribution
+### ➜ Track Duration Distribution
 
 Histogram showing the most common duration ranges of songs.
 
-### ✔ Year-wise Releases
+### ➜ Year-wise Releases
 
 Trend chart for releases across years.
 
-### ✔ Most Frequent Artists
+### ➜ Most Frequent Artists
 
 Bar chart of the top recurring artists in kabir singh-related playlists.
 
